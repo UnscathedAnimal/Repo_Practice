@@ -5,6 +5,7 @@
         <h1><%: Title %>.</h1>
         <h2>Your app description page.</h2>
         <h1>Jared Hidson</h1>
+        <h1>DO ALL OF THE THINGS</h1>
     </hgroup>
 
     <article>
